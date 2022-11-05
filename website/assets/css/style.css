@@ -1,3 +1,16 @@
 body{
     background: #BDBDBD;
 }
+
+h1 {
+    font-size: 160px;
+}
+
+h2 {
+    font-size: 90px;
+}
+
+.jumbobg {
+    object-fit: cover;
+    object-position: center;
+}
